@@ -1,3 +1,11 @@
+//Exemplo:
+//Escreva um programa que conversa números romanos em números decimais. Lembre-se:
+// I => 1
+// V => 5
+// X => 10
+// L => 50
+// C => 100
+
 //Atividade_1_ATAL_EC_2023.2
 
 #include <stdio.h>
