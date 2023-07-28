@@ -1,4 +1,4 @@
-#Atividade_1_ATAL_EC_2023.2
+//Atividade_1_ATAL_EC_2023.2
 
 #include <stdio.h>
 
